@@ -1,3 +1,7 @@
+/*
+ * 1. Write a program to print factorial of N ( without using any loop)
+ */
+
 package question1;
 import java.util.*;
 public class Factorial {
